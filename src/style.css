@@ -1,0 +1,27 @@
+:root {
+  --primary-color: #dcf7f4;
+}
+body {
+  background: var(--primary-color);
+}
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.main-imges {
+  background: rgba(0, 0, 0, 0.306);
+  opacity: 0.7;
+}
+
+.main-imges:hover {
+  opacity: 100%;
+  background: whitesmoke;
+}
+
+a {
+  color: rgba(59, 120, 100, 0.913);
+}
+a:hover {
+  color: rgba(59, 120, 100, 0.913);
+}
