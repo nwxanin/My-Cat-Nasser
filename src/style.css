@@ -4,6 +4,9 @@
 body {
   background: var(--primary-color);
 }
+h1 {
+  font-size: xx-large;
+}
 .container {
   max-width: 800px;
   margin: 0 auto;
